@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Floriant-Chart Case Study</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .button {
+            display: inline-block;
+            background: #ff9800;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            transition: 0.3s;
+        }
+        .button:hover {
+            background: #e68900;
+        }
+        .case-study {
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Welcome to Floriant-Chart</h1>
+        <p>Your journey from *zero to hero* in *Digital Marketing and Amazon FBA* starts here.</p>
+        <a href="#case-study" class="button">Read Case Study</a>
+    </div>
+
+    <div class="container case-study" id="case-study">
+        <h2>Case Study: From Beginner to Successful Entrepreneur</h2>
+
+        <h3>Introduction</h3>
+        <p>In today's digital world, many aspiring entrepreneurs struggle to start their journey in *Digital Marketing* and *Amazon FBA* due to a lack of proper guidance. At *Floriant-Chart, we empower individuals with the right skills and knowledge to go from **zero experience to industry success*.</p>
+
+        <h3>Background</h3>
+        <ul>
+            <li><strong>Name:</strong> Ananya Roy</li>
+            <li><strong>Age:</strong> 24</li>
+            <li><strong>Location:</strong> Kolkata, India</li>
+            <li><strong>Previous Experience:</strong> Fresh graduate with no background in e-commerce or marketing</li>
+            <li><strong>Challenges:</strong> Limited knowledge of online business, difficulty in finding the right learning platform, and fear of failure</li>
+        </ul>
+
+        <h3>Challenges Faced</h3>
+        <p>Before joining Floriant-Chart, Ananya was unsure how to start an online business...</p>
+
+        <h3>The Floriant-Chart Approach</h3>
+        <ol>
+            <li><strong>Fundamentals Made Simple:</strong> Beginner-friendly modules covering market research, branding, and sales strategies.</li>
+            <li><strong>Hands-On Learning:</strong> Real-world case studies, assignments, and live sessions.</li>
+            <li><strong>Mentorship & Support:</strong> One-on-one guidance from experts.</li>
+            <li><strong>Practical Execution:</strong> Launched an Amazon FBA store and optimized digital marketing campaigns.</li>
+            <li><strong>Scaling Up:</strong> Built a profitable online business within months.</li>
+        </ol>
+
+        <h3>Results Achieved</h3>
+        <ul>
+            <li>✅ *5-figure monthly revenue* from Amazon FBA store</li>
+            <li>✅ *300% ROI* on first marketing campaign</li>
+            <li>✅ *Freelance projects* for social media marketing</li>
+            <li>✅ *Confidence & independence* to scale further</li>
+        </ul>
+
+        <h3>Conclusion</h3>
+        <p>Ananya’s journey from *absolute beginner* to *successful entrepreneur* proves that structured learning makes a difference. *Floriant-Chart* is committed to empowering learners, helping them thrive in the digital world.</p>
+
+        <h2>🚀 Your Success Story Begins Here. Are you ready?</h2>
+        <a href="your-course-page.html" class="button">Join Now</a>
+    </div>
+
+</body>
+</html>
